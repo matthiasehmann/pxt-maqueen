@@ -27,7 +27,8 @@
         "_locales/ru/maqueen-strings.json",
         "_locales/ru/maqueen-jsdoc-strings.json",
         "_locales/ja/maqueen-strings.json",
-        "_locales/ja/maqueen-jsdoc-strings.json"
+        "_locales/ja/maqueen-jsdoc-strings.json",
+        "_locales/de/maqueen-strings.json"
     ],
     "testFiles": [
         "test.ts"
