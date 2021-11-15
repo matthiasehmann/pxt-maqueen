@@ -4,7 +4,7 @@
   "maqueen.Dir.CCW|block": "antihoraire",
   "maqueen.Dir.CW|block": "horaire",
   "maqueen.IR_callbackUser|block": "quand l'IR reçoit",
-  "maqueen.IR_read_version|block": "Obtenir des informations sur le produit",
+  "maqueen.IR_read_version|block": "Produktinformation auslesen",
   "maqueen.IR_read|block": "lire l'infrarouge",
   "maqueen.LED.LEDLeft|block": "LEDGauche",
   "maqueen.LED.LEDRight|block": "LEDDroite",
@@ -21,7 +21,7 @@
   "maqueen.Servos.S2|block": "S2",
   "maqueen.motorStopAll|block": "Stop tous les moteurs",
   "maqueen.motorStop|block": "Stoppe Motor|%motors",
-  "maqueen.readPatrol|block": "Lire détecteur|%patrol",
+  "maqueen.readPatrol|block": "Lese|%patrol|Linienfolgesensor",
   "maqueen.Ultrasonic|block": "Messe Abstand|%unit",
   "maqueen.writeLED|block": "LED|%ledswitch|auf|%led|setzen"
 } 
