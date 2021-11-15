@@ -13,7 +13,7 @@
   "maqueen.motorRun|block": "Motor|%index|Richtung|%Dir|Geschwindigkeit|%speed",
   "maqueen.Patrol.PatrolLeft|block": "DétecteurGauche",
   "maqueen.Patrol.PatrolRight|block": "DétecteurDroite",
-  "maqueen.servoRun|block": "Servo|%index|angle|%angle",
+  "maqueen.servoRun|block": "Servo|%index|Winkel|%angle",
   "maqueen.Motors.M1|block": "M1",
   "maqueen.Motors.M2|block": "M2",
   "maqueen.Motors.All|block": "All",
