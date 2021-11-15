@@ -22,6 +22,6 @@
   "maqueen.motorStopAll|block": "Stop tous les moteurs",
   "maqueen.motorStop|block": "Stoppe Motor|%motors",
   "maqueen.readPatrol|block": "Lire détecteur|%patrol",
-  "maqueen.Ultrasonic|block": "unité du senseur|%unit",
+  "maqueen.Ultrasonic|block": "Messe Abstand|%unit",
   "maqueen.writeLED|block": "%ledswitch|la led|%led"
 } 

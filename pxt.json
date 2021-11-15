@@ -28,7 +28,9 @@
         "_locales/ru/maqueen-jsdoc-strings.json",
         "_locales/ja/maqueen-strings.json",
         "_locales/ja/maqueen-jsdoc-strings.json",
-        "_locales/de/maqueen-strings.json"
+        "_locales/de/maqueen-strings.json",
+        "main.py",
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -41,5 +43,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "pyprj"
 }
