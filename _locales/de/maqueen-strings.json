@@ -23,5 +23,5 @@
   "maqueen.motorStop|block": "Stoppe Motor|%motors",
   "maqueen.readPatrol|block": "Lire détecteur|%patrol",
   "maqueen.Ultrasonic|block": "Messe Abstand|%unit",
-  "maqueen.writeLED|block": "%ledswitch|la led|%led"
+  "maqueen.writeLED|block": "LED|%ledswitch|auf|%led|setzen"
 } 
