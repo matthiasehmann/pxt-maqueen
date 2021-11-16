@@ -31,6 +31,7 @@
   "maqueen.ltEvent|block": "Wenn|%value|Linienfolgesensor|%vi|ist",
   "maqueen.IR_callbackUserV2|block": "Wenn ich über Infrarot empfange",
   "maqueen.IR_readV2|block": "Lese Infrarotsensor",
+  "maqueen.IR_init|block":"Verbinde IR-Empfänger mit Pin|%pin",
   "{id:category}Maqueen": "Maqueen",
   "{id:category}MaqueenIR": "Maqueen Infrarot"
 } 
