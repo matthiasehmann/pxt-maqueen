@@ -32,8 +32,8 @@
   "maqueen.IR_callbackUserV2|block": "Wenn ich über Infrarot empfange",
   "maqueen.IR_readV2|block": "Lese Infrarotsensor",
   "maqueenIR.ir_init|block":"Verbinde IR-Empfänger mit Pin|%pin",
-  "maqueenIRV2.onPressEvent|block": "Wenn|%btn|gedrückt wurde",
-  "maqueenIRV2.initIR|block": "Verbinde IR-Empfänger mit Pin|%pin",
+  "maqueenIR.onPressEvent|block": "Wenn|%btn|gedrückt wurde",
+  "maqueenIR.initIR|block": "Verbinde IR-Empfänger mit Pin|%pin",
   "{id:category}Maqueen": "Maqueen",
   "{id:category}MaqueenIR": "Maqueen Infrarot"
 } 
