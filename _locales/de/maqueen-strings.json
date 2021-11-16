@@ -25,5 +25,7 @@
   "maqueen.Ultrasonic|block": "Messe Abstand in|%unit",
   "maqueen.writeLED|block": "LED|%ledswitch|%led",
   "maqueen.Voltage.High|block": "hell",
-  "maqueen.Voltage.Low|block": "dunkel"
+  "maqueen.Voltage.Low|block": "dunkel",
+  "maqueen.Patrol1.PatrolLeft|block": "linker",
+  "maqueen.Patrol1.PatrolRight|block": "rechter"
 } 
