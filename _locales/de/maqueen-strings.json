@@ -30,7 +30,7 @@
   "maqueen.Patrol1.PatrolRight|block": "rechter",
   "maqueen.ltEvent|block": "Wenn|%value|Linienfolgesensor|%vi|ist",
   "maqueen.IR_callbackUserV2|block": "Wenn ich über Infrarot empfange",
-  "maqueen.IR_readV2|block": "Lese Infrarotsensor"
+  "maqueen.IR_readV2|block": "Lese Infrarotsensor",
   "{id:category}Maqueen": "Maqueen",
   "{id:category}MaqueenIR": "Maqueen Infrarot"
 } 
