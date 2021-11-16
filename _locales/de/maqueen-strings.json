@@ -6,13 +6,13 @@
   "maqueen.IR_callbackUser|block": "quand l'IR reçoit",
   "maqueen.IR_read_version|block": "Produktinformation auslesen",
   "maqueen.IR_read|block": "Lese Infrarotsensor",
-  "maqueen.LED.LEDLeft|block": "LED links",
-  "maqueen.LED.LEDRight|block": "LED rechts",
+  "maqueen.LED.LEDLeft|block": "links",
+  "maqueen.LED.LEDRight|block": "rechts",
   "maqueen.LEDswitch.turnOff|block": "ausschalten",
   "maqueen.LEDswitch.turnOn|block": "einschalten",
   "maqueen.motorRun|block": "Motor|%index|Richtung|%Dir| Uhrzeigersinn mit Geschwindigkeit|%speed",
-  "maqueen.Patrol.PatrolLeft|block": "Sensor links",
-  "maqueen.Patrol.PatrolRight|block": "Sensor rechts",
+  "maqueen.Patrol.PatrolLeft|block": "linken",
+  "maqueen.Patrol.PatrolRight|block": "rechten",
   "maqueen.servoRun|block": "Servo|%index|Winkel|%angle",
   "maqueen.Motors.M1|block": "M1",
   "maqueen.Motors.M2|block": "M2",
@@ -22,6 +22,6 @@
   "maqueen.motorStopAll|block": "Stoppe alle Motoren",
   "maqueen.motorStop|block": "Stoppe Motor|%motors",
   "maqueen.readPatrol|block": "Lese|%patrol|Linienfolgesensor",
-  "maqueen.Ultrasonic|block": "Messe Abstand|%unit",
-  "maqueen.writeLED|block": "LED|%ledswitch|auf|%led|setzen"
+  "maqueen.Ultrasonic|block": "Messe Abstand in|%unit",
+  "maqueen.writeLED|block": "LED|%ledswitch|%led"
 } 
