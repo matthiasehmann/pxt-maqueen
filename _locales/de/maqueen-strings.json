@@ -28,5 +28,5 @@
   "maqueen.Voltage.Low|block": "dunkel",
   "maqueen.Patrol1.PatrolLeft|block": "linker",
   "maqueen.Patrol1.PatrolRight|block": "rechter",
-  "maqueen.ltEvent|block": "Wenn|%value linjesensor er|%vi"
+  "maqueen.ltEvent|block": "Wenn|%value Linienfolgesensor|%vi ist"
 } 
