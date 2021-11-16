@@ -24,4 +24,6 @@
   "maqueen.readPatrol|block": "Lese|%patrol|Linienfolgesensor",
   "maqueen.Ultrasonic|block": "Messe Abstand in|%unit",
   "maqueen.writeLED|block": "LED|%ledswitch|%led"
+  "maqueen.Voltage.High|block": "hell",
+  "maqueen.Voltage.Low|block": "dunkel"
 } 
