@@ -1,0 +1,84 @@
+{
+  "Maqueen_V5.BatteryType.Alkaline|block": "Alkaline",
+  "Maqueen_V5.BatteryType.Lithium|block": "Lithium",
+  "Maqueen_V5.BleCmd.BleBackward|block": "rückwärts fahren",
+  "Maqueen_V5.BleCmd.BleForward|block": "vorwärts fahren",
+  "Maqueen_V5.BleCmd.BleLeft|block": "links abbiegen",
+  "Maqueen_V5.BleCmd.BleRight|block": "rechts abbiegen",
+
+  "Maqueen_V5.BleCmd.BleRgbB|block": "RGB Blau",
+  "Maqueen_V5.BleCmd.BleRgbG|block": "RGB Grün",
+  "Maqueen_V5.BleCmd.BleRgbR|block": "RGB Rot",
+  "Maqueen_V5.BleCmd.BleRgbGB|block": "RGB Cyan",
+  "Maqueen_V5.BleCmd.BleRgbRG|block": "RGB Gelb",
+  "Maqueen_V5.BleCmd.BleRgbRB|block": "RGB Magenta",
+  "Maqueen_V5.BleCmd.BleRgbRGB|block": "RGB Weiß",
+  "Maqueen_V5.BleCmd.BleRgbOff|block": "RGB Aus",
+
+  "Maqueen_V5.BleCmd.BleServo1Left|block": "Servo 1 nach links drehen",
+  "Maqueen_V5.BleCmd.BleServo1Right|block": "Servo 1 nach rechts drehen",
+  "Maqueen_V5.BleCmd.BleServo2Left|block": "Servo 2 nach links drehen",
+  "Maqueen_V5.BleCmd.BleServo2Right|block": "Servo 2 nach rechts drehen",
+
+  "Maqueen_V5.BleCmdDefault|block": "Bluetooth-Befehl ausführen %cmd=bleCommand(vorwärts fahren)",
+  "Maqueen_V5.BleGetCmd|block": "letzter Bluetooth-Befehl",
+  "Maqueen_V5.BlecallbackUser|block": "wenn Bluetooth-Befehl empfangen wird",
+
+  "Maqueen_V5.CarLightColors.Black|block": "Schwarz",
+  "Maqueen_V5.CarLightColors.Blue|block": "Blau",
+  "Maqueen_V5.CarLightColors.Cyan|block": "Cyan",
+  "Maqueen_V5.CarLightColors.Green|block": "Grün",
+  "Maqueen_V5.CarLightColors.Purple|block": "Lila",
+  "Maqueen_V5.CarLightColors.Red|block": "Rot",
+  "Maqueen_V5.CarLightColors.White|block": "Weiß",
+  "Maqueen_V5.CarLightColors.Yellow|block": "Gelb",
+
+  "Maqueen_V5.Dir.CCW|block": "rückwärts",
+  "Maqueen_V5.Dir.CW|block": "vorwärts",
+
+  "Maqueen_V5.DirectionType.All|block": "beide",
+  "Maqueen_V5.DirectionType.Left|block": "links",
+  "Maqueen_V5.DirectionType.Right|block": "rechts",
+
+  "Maqueen_V5.I2CInit|block": "I2C-Kommunikation mit Roboter initialisieren",
+
+  "Maqueen_V5.Motors.M1|block": "linker Motor",
+  "Maqueen_V5.Motors.M2|block": "rechter Motor",
+  "Maqueen_V5.Motors.All|block": "beide Motoren",
+
+  "Maqueen_V5.Patrolling.ON|block": "einschalten",
+  "Maqueen_V5.Patrolling.OFF|block": "ausschalten",
+
+  "Maqueen_V5.Ultrasonic|block": "Abstand des Ultraschallsensors in cm",
+
+  "Maqueen_V5.Voltage.High|block": "erkennt",
+  "Maqueen_V5.Voltage.Low|block": "erkennt nicht",
+
+  "maqueen.Dir.CCW|block": "rückwärts",
+  "maqueen.Dir.CW|block": "vorwärts",
+
+  "maqueen.LED.LEDLeft|block": "linke",
+  "maqueen.LED.LEDRight|block": "rechte",
+
+  "maqueen.LEDswitch.turnOn|block": "ein",
+  "maqueen.LEDswitch.turnOff|block": "aus",
+
+  "maqueen.Motors.M1|block": "linker Motor",
+  "maqueen.Motors.M2|block": "rechter Motor",
+  "maqueen.Motors.All|block": "beide Motoren",
+
+  "maqueen.Patrol.PatrolLeft|block": "linker",
+  "maqueen.Patrol.PatrolRight|block": "rechter",
+
+  "maqueen.ltEvent|block": "wenn %value(linker) Sensor %vi(erkennt) Linie",
+
+  "maqueen.motorRun|block": "starte %index(linker Motor) Richtung %Dir(vorwärts) Geschwindigkeit %speed(100)",
+
+  "maqueen.motorStop|block": "%motors(linker Motor) stoppen",
+
+  "maqueen.writeLED|block": "%led(linke) LED %ledswitch(ein) setzen",
+
+  "{id:category}Maqueen": "Maqueen",
+  "{id:category}Maqueen_V5": "Maqueen V5",
+  "{id:group}Maqueen_v5": "Maqueen V5"
+}
